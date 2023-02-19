@@ -1,11 +1,7 @@
 # -Spring-Boot-Employee-Management-System
 My first project in Spring Boot ..... lots of project are coming
 Total 5 dependencies 
-a. Spring Web
-b. ThymLeaf
-c. SpringBoot Dev Tools
-d. MySQL Driver
-e. Spring Data JPA
+1.Spring Web / 2.ThymLeaf / 3.SpringBoot Dev Tools / 4.MySQL Driver / 5.Spring Data JPA
 
 
 
